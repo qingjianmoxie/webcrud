@@ -11,11 +11,6 @@ import org.springframework.format.annotation.NumberFormat;
 public class EmployeeVO {
 	//测试git pull
 	//测试git sync
-	//测试开发啊啊啊啊
-	//服务器修改代码
-	//服务器修改33333333
-	//本地修改代码444444
-    //服务器修改44444444
 	String eid;
 	
 	@NotEmpty
